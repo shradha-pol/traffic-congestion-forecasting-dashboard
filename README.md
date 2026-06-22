@@ -190,23 +190,23 @@ Traffic-Congestion-Forecasting-Dashboard
 
 ### 🟦 Executive Overview
 
-![Executive Overview]([Screenshots/Executive_Overview.png](https://github.com/shradha-pol/traffic-congestion-forecasting-dashboard/blob/1dd1a4669de4016cd0a0fa933d2592e5b130db70/Traffic-Congestion-Forecasting-Dashboard/Screenshots/Congestion_Hotspots.png.jpg))
+![Executive Overview](Traffic-Congestion-Forecasting-Dashboard/Screenshots/Executive_Overview.png.jpg)
 
 ### 🟩 Traffic Flow Analysis
 
-![Traffic Flow Analysis](Screenshots/Traffic_Flow_Analysis.png)
+![Traffic Flow Analysis](Traffic-Congestion-Forecasting-Dashboard/Screenshots/Traffic_Flow_Analysis.png.jpg)
 
 ### 🟥 Congestion Hotspots Analysis
 
-![Congestion Hotspots Analysis](Screenshots/Congestion_Hotspots.png)
+![Congestion Hotspots](Traffic-Congestion-Forecasting-Dashboard/Screenshots/Congestion_Hotspots.png.jpg)
 
 ### 🟨 Weather Impact Analysis
 
-![Weather Impact Analysis](Screenshots/Weather_Impact_Analysis.png)
+![Weather Impact](Traffic-Congestion-Forecasting-Dashboard/Screenshots/Weather_Impact.png.jpg)
 
 ### 🟪 Road Segment Drill Through
 
-![Road Segment Drill Through](Screenshots/Drill_Through_Report.png)
+![Drill Through](Traffic-Congestion-Forecasting-Dashboard/Screenshots/Drill_Through.png.jpg)
 
 ---
 
