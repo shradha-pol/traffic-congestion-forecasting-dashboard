@@ -190,7 +190,7 @@ Traffic-Congestion-Forecasting-Dashboard
 
 ### 🟦 Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview]([Screenshots/Executive_Overview.png](https://github.com/shradha-pol/traffic-congestion-forecasting-dashboard/blob/1dd1a4669de4016cd0a0fa933d2592e5b130db70/Traffic-Congestion-Forecasting-Dashboard/Screenshots/Congestion_Hotspots.png.jpg))
 
 ### 🟩 Traffic Flow Analysis
 
